@@ -3,6 +3,6 @@ console.log('linha 1')
 
 /*
     Comentário de
-    múltiplas linhas
+    múltiplas linhas    
 */
 console.log('linha 2')
